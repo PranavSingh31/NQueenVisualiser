@@ -11,6 +11,7 @@ The idea is to arrange the queens in different rows one by one, beginning with t
 ![be8c245f-5620-4178-9dea-aa408868088c_1621674069 4770846](https://user-images.githubusercontent.com/76558062/214358794-af24a83c-3f26-4a95-9291-542616ef0e18.gif)
 
 Time Complexity: O(N!)
+  
 Auxiliary Space: O(N^2)
 
 
