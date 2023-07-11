@@ -13,4 +13,4 @@ The idea is to arrange the queens in different rows one by one, beginning with t
 #### Time Complexity: O(N!)
 #### Auxiliary Space: O(N²)
 
-
+Check out this Sorting Visualizer too : https://github.com/PranavSingh31/SortingVisualizer
